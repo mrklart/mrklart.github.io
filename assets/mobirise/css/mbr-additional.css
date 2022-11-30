@@ -1,3 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -7,9 +16,26 @@
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#header4-3 H1 {
+  font-family: 'Slabo 27px', serif;
+}
 #msg-box3-17 .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-17 .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#msg-box3-17 .mbr-header .mbr-header__text P {
+  text-align: center;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 25px;
+}
+#msg-box3-17 .btn {
+  font-family: 'Indie Flower', cursive;
+}
+#msg-box3-17 .mbr-article P {
+  font-family: 'Raleway', sans-serif;
+}
+#form1-19 .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
 }
