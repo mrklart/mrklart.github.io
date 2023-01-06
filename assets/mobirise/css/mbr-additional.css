@@ -2072,7 +2072,7 @@ a {
 .cid-ts5xIhLmMm .item-img {
   width: 100%;
   height: 100%;
-  height: 300px;
+  height: 200px;
   object-fit: cover;
 }
 .cid-ts5xIhLmMm .item:focus,
@@ -2221,6 +2221,7 @@ a {
 .cid-tqDkU3pUPK {
   padding-top: 6rem;
   padding-bottom: 6rem;
+  background-color: #232323;
 }
 .cid-tqDkU3pUPK .mbr-fallback-image.disabled {
   display: none;
@@ -2233,7 +2234,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background13.jpg");
 }
 .cid-tqDkU3pUPK .mbr-text,
 .cid-tqDkU3pUPK .mbr-section-btn {
